@@ -16,8 +16,9 @@ https://www.youtube.com/playlist?list=PLeGNkN4pv3W3XqtYU4-NG6Ml0uuRW6HBI
 ![Vortex](https://raw.githubusercontent.com/skothr/fluid-experiments/master/fluid-simulations/experimental-complex-fluid/complex-fluid-vortex3.png)
 
 
-![Mandelbrot Spirals](https://raw.githubusercontent.com/skothr/fluid-experiments/master/mandelbrot-set/3d-galaxy-spirals1.png)
+![Mandelbrot Tendrils](https://raw.githubusercontent.com/skothr/fluid-experiments/master/mandelbrot-set/3d-galaxy-spirals1.png)
 ![Hyperdimensional Particle](https://raw.githubusercontent.com/skothr/fluid-experiments/master/mandelbrot-set/confined-particle1.png)
+![Mandelbrot Topology](https://raw.githubusercontent.com/skothr/fluid-experiments/master/mandelbrot-set/topology2.png)
 ![Topological Flower](https://raw.githubusercontent.com/skothr/fluid-experiments/master/mandelbrot-set/topology-fluid-flower1.png)
 
 Questions/Comments: skothr@gmail.com
