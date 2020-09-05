@@ -16,6 +16,7 @@ https://www.youtube.com/playlist?list=PLeGNkN4pv3W3XqtYU4-NG6Ml0uuRW6HBI
 ![Complex Turbulence 3](https://raw.githubusercontent.com/skothr/fluid-experiments/master/fluid-simulations/experimental-complex-fluid/fluid-turbulance14.png)
 ![Vector Field](https://raw.githubusercontent.com/skothr/fluid-experiments/master/fluid-simulations/navier-stokes-fluid/fluid-vector-field.png)
 ![Turbulence Stream](https://raw.githubusercontent.com/skothr/fluid-experiments/master/fluid-simulations/experimental-complex-fluid/fluid-turbulance5-pressure.png)
+![Fluid Pressure](https://raw.githubusercontent.com/skothr/fluid-experiments/master/fluid-simulations/navier-stokes-fluid/correct-fluid3.png)
 
 ![Mandelbrot Variation -- Ouroboros](https://raw.githubusercontent.com/skothr/fluid-experiments/master/mandelbrot-set/3d-galaxy-spirals1.png)
 ![Mandelbrot Variation -- Tendril Cave](https://raw.githubusercontent.com/skothr/fluid-experiments/master/mandelbrot-set/3d-tendril-cave2.png)
